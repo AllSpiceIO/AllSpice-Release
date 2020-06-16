@@ -1,0 +1,1 @@
+Latest release for AllSpice desktop application
