@@ -1,3 +1,7 @@
+## 0.4.1 (2020-6-19)
+
+* [Ref] Bump rev
+
 ## 0.4.0 (2020-6-17)
 
 * [Feat] Check for updates
