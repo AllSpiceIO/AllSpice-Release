@@ -1,3 +1,7 @@
+## 0.4.3 (2020-6-23)
+
+* [Fix] preserve multiple file extensions
+
 ## 0.4.2 (2020-6-23)
 
 * [PCB] Tracks and Arcs Support
