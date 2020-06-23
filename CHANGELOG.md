@@ -1,3 +1,9 @@
+## 0.4.2 (2020-6-23)
+
+* [PCB] Tracks and Arcs Support
+* [Schematic] Support Text Frames
+* [Fix] Null file reference handled in diff
+
 ## 0.4.1 (2020-6-19)
 
 * [Ref] Bump rev
