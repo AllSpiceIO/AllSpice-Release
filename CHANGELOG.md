@@ -1,3 +1,9 @@
+## 0.5.0 (2020-7-20)
+[FEAT] Collapse component attributes in diff
+[PERF] Join Polylines, PCB
+[PERF] More efficient JSON output
+[BUG] Fix indentation on JSON output
+
 ## 0.4.3 (2020-6-23)
 
 * [Fix] preserve multiple file extensions
