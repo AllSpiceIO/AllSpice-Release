@@ -1,3 +1,7 @@
+## 0.5.4 (2020-8-17)
+[PCB] Pad support
+[REF] PCB support in welcome screen
+
 ## 0.5.2 (2020-8-16)
 [PCB] Support outline of PCB
 [PCB] Via support
