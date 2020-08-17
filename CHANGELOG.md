@@ -1,3 +1,7 @@
+## 0.5.5 (2020-8-17)
+[FIX|PCB] Allow PCB diff against null (added)
+[FIX] check empty file diff (TortoiseGit fails on added files)
+
 ## 0.5.4 (2020-8-17)
 [PCB] Pad support
 [REF] PCB support in welcome screen
