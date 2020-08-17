@@ -1,6 +1,11 @@
+## 0.5.2 (2020-8-16)
+[PCB] Support outline of PCB
+[PCB] Via support
+[FEAT] Loading spinner
+
 ## 0.5.0 (2020-7-20)
 [FEAT] Collapse component attributes in diff
-[PERF] Join Polylines, PCB
+[PCB] [PERF] Join polylines
 [PERF] More efficient JSON output
 [BUG] Fix indentation on JSON output
 
