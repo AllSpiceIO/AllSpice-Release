@@ -1,3 +1,9 @@
+## 0.5.6 (2020-9-24)
+[PCB] Add render support for regions
+[PCB] Add render support for holes in pad
+[PCB] Add render support for advanced pad shapes
+[PCB] Add render support for rotated pads
+
 ## 0.5.5 (2020-8-17)
 [FIX|PCB] Allow PCB diff against null (added)
 [FIX] check empty file diff (TortoiseGit fails on added files)
