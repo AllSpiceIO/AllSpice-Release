@@ -1,3 +1,7 @@
+## 0.5.8 (2020-10-7)
+[FIX] Fix PCB error causing board cutouts to fail
+[FIX] Remove infinite loop causing high CPU usage
+
 ## 0.5.7 (2020-9-29)
 [FIX] Increase timeout on back-end calls to allow more complex PCBs
 [PERF] Filter CSS fade animation tag
