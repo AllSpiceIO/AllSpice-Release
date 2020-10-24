@@ -1,3 +1,7 @@
+## 0.5.9 (2020-10-24)
+[PCB] Align PCB diff if board outline changes
+[UI] Separate diff component text into part number, description
+
 ## 0.5.8 (2020-10-7)
 [FIX] Fix PCB error causing board cutouts to fail
 [FIX] Remove infinite loop causing high CPU usage
