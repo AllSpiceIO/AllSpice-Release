@@ -1,3 +1,13 @@
+## 0.6.0 (2020-12-14)
+[SCH] Highlight diff items on hover
+[SCH][PCB] Add loading spinner while processing diff
+[GIT][BUG] Generate git history for files even if they aren't in root
+[GIT] Lazy-load git history
+v0.4.0 backend:
+[SCH] Add object IDs to svg elements
+[SCH] Fix bug causing crash on non-ascii component parameter names
+[SCH] Add linecaps to schematics
+
 ## 0.5.9 (2020-10-24)
 [PCB] Align PCB diff if board outline changes
 [UI] Separate diff component text into part number, description
