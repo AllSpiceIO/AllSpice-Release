@@ -1,4 +1,10 @@
 ## 0.6.0 (2020-12-14)
+v0.4.2 backend:
+[FIX] Support Altium 21
+[FIX] Show schematic markers in Firefox
+[SECURITY] Escape all text strings
+
+## 0.6.0 (2020-12-14)
 [SCH] Highlight diff items on hover
 [SCH][PCB] Add loading spinner while processing diff
 [GIT][BUG] Generate git history for files even if they aren't in root
