@@ -1,4 +1,39 @@
-## 0.6.0 (2020-12-14)
+## 0.7.0 (2021-11-11)
+[SECURITY] Escape CSS selectors
+v0.5.2 backend:
+[FIX] Internal CI fixes
+v0.5.1 backend:
+[FIX] Fix KeyError during diff
+[FIX] Security improvements related to external images
+v0.5.0 backend:
+[UTIL] Add --version
+[PERF] Compress svg class names
+v0.4.8 backend:
+[BUG] Handle multi-order polinomial beziers
+[REF] Outline region diff
+[PERF] Diff color attributes to layer
+[PERF] Move color attributes to layers
+[FEAT] Add layers to pcbs
+v0.4.7 backend:
+[FEAT] Use more accurate linewidth enumeration
+[FEAT] Display port direction
+[FIX] Don't display hidden parameters in bottom left
+[FEAT] Harness support
+[FIX] Use correct owner in Altium properties in Addition Streams
+v0.4.6 backend:
+[FEAT] Schematic sheet entry support
+[FIX] Negative radius warning in SVGs
+v0.4.5 backend:
+[FIX] Fix so that exit code is non-zero when there's an error
+0.4.4 backend:
+[FIX] Fix font style attributes from leaking across diffs
+[FIX] Fix text alignment in labels and textframes
+[PERF] Remove mask for pad holes
+[PERF] Reduce SVG precision from default 6 to 5
+0.4.3 backend:
+[PERF] Internal performance improvements
+
+## 0.6.1 (2021-04-17)
 v0.4.2 backend:
 [FIX] Support Altium 21
 [FIX] Show schematic markers in Firefox
